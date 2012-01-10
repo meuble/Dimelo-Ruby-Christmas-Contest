@@ -145,3 +145,7 @@ L'executable ne prendra qu'un seul paramètre le chemin absolu du fichier de rè
 
       
 Les choix d'implémentation de la solution sont libres, DSL ruby, parser/lexer, peg/leg, regexp, à la mano, toutes les solutions sont acceptables même si certaines sont plus élégantes et extensibles que d'autres. Le gagnant officiel sera déterminé via les règles.
+
+## License
+
+Ce code est sous licence WTFPL. Voir le fichier joint WTFPL-LICENSE pour plus de détails.
