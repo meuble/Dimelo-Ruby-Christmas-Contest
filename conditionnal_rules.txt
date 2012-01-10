@@ -1,0 +1,4 @@
+repository = 1
+repository = 5 if repository.watchers > 10
+repository = 5 if repository.forks > 10
+repository = 20 if repository.watchers > 10 && repository.forks > 10

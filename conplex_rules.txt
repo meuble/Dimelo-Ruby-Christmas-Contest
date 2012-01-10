@@ -1,0 +1,6 @@
+follower = 2
+repository = 5
+repository = 1 if repository.watchers  < 2 && repository.forks < 2
+repository += 10 if repository.watchers  > 10
+repository += 10 if repository.forks  >  10
+repository = 50 if repository.watchers  > 100 && repository.forks > 100

@@ -1,0 +1,9 @@
+GEM
+  specs:
+    hashie (1.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hashie
